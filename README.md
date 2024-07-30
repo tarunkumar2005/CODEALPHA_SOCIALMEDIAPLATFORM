@@ -1,5 +1,5 @@
 # Project Title
-SocialMedia using django 
+This is a social media app created by me using django.
 
 # to Run server 
 #run the below commands in terminal to runserver
